@@ -54,6 +54,7 @@ type UploadFileOptions struct {
 // To generate your own unique names, consider a cryptographic hash algorithm like SHA-1.
 // The string "files/" is prepended to the name if it does not contain a '/'.
 //
+//
 // Use the returned file's URI field with a [FileData] Part to use it for generation.
 //
 // It is an error to upload a file that already exists.
