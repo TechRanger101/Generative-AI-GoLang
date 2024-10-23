@@ -1,14 +1,5 @@
 # Go SDK for Google Generative AI
 
-This SDK enables developers to use Google's state-of-the-art generative
-AI models (like Gemini) to build AI-powered features and applications. It
-supports use cases like:
-
-- Generate text from text-only input
-- Generate text from text-and-images input (multimodal)
-- Build multi-turn conversations (chat)
-- Embedding
-
 ## Try out the API
 
 1.  [Obtain an API key](https://makersuite.google.com/app/apikey) to use with the Google AI SDKs.
